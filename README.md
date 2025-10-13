@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chioma Nwosu  @Treasurematrix
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning with Genesys Upskill.
+- 👀 I’m interested in web development/software engineering
+- 🌱 I’m currently learning with Alx Africa.
 - 💞️ I’m looking to collaborate with great minds.
 - 📫 How to reach me chiomanwosu2019@gmail.com.
 - ⚡ Fun fact: love cooking, listening to gospel music,learning new things ...
